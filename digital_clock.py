@@ -19,7 +19,7 @@ def time():
 
 # Creating label to display the time
 
-label = tk.Label(root, font=('calibri', 50, 'bold'), background='black', foreground='yellow')  # Fixed 'lable' to 'label' and 'lable' to 'Label'
+label = tk.Label(root, font=('calibri', 50, 'bold'), background='black', foreground='yellow')  
 label.pack(anchor='center')
 
 
