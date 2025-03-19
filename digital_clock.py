@@ -4,7 +4,7 @@ from time import strftime
 
 
 # Initialize the main window
-root = tk.Tk()  # Corrected 'TK()' to 'Tk()'
+root = tk.Tk()  
 root.title("Digital Clock")
 
 
